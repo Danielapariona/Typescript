@@ -1,8 +1,3 @@
-
-
-console.log('Hola Mundo!');
-
 /*
-    ===== Código de TypeScript =====
+    ===== Código de TypeScript: Encadenamiento opcional =====
 */
-
